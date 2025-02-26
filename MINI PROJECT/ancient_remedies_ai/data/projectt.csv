@@ -1,0 +1,24 @@
+﻿Ailment,Remedy Name,Ingredients,Preparation Method,Usage & Dosage,Region,Additional Notes
+Cold & Cough,Turmeric Milk,"Turmeric, Milk, Honey",Mix turmeric in warm milk,Drink 1 cup before bedtime,India,Boosts immunity
+Headache,Ginger Tea,"Ginger, Water, Honey",Boil ginger in water,Drink 2 times daily,China,Anti-inflammatory
+Stomach Ache,Mint Tea,"Mint leaves, Water",Boil mint leaves in water,Drink after meals,Egypt,Helps digestion
+Sore Throat,Honey Lemon Water,"Honey, Lemon, Warm Water",Mix honey and lemon in water,Gargle and drink twice a day,Greece,Soothes throat
+Acidity,Buttermilk & Cumin,"Buttermilk, Cumin Powder, Salt",Mix cumin powder and salt in buttermilk,Drink 1 glass after meals,India,Cools the stomach
+Indigestion,Lemon & Baking Soda,"Lemon, Baking Soda, Water","Mix lemon juice, baking soda in water",Drink after meals,Global,Reduces bloating and gas
+Diarrhea,Pomegranate Peel Tea,"Dried Pomegranate Peel, Water","Boil peels in water, drink",Drink twice a day,Persia,Helps control loose motions
+Nausea,Ginger Lemon Juice,"Ginger, Lemon, Honey","Mix ginger juice, lemon, and honey",Drink whenever nausea occurs,China,Soothes the stomach
+Vomiting,Cardamom Water,"Cardamom Seeds, Water","Boil cardamom in water, drink",Sip slowly,India,Reduces nausea and vomiting
+Fever,Coriander Tea,"Coriander Seeds, Water, Honey","Boil coriander seeds, strain, add honey",Drink 2 times daily,India,Reduces body temperature
+Stress & Anxiety,Ashwagandha Tea,"Ashwagandha Powder, Warm Water","Mix powder in warm water, drink",Drink once daily,India,Reduces cortisol levels
+Insomnia,Nutmeg Milk,"Nutmeg Powder, Warm Milk","Mix nutmeg in warm milk, drink",Drink before bedtime,Ayurveda,Helps induce sleep
+Body Pain,Turmeric & Ginger Paste,"Turmeric, Ginger, Mustard Oil","Make a paste, apply on affected area","Apply for 20 minutes, wash off",India,Reduces inflammation
+Asthma,Honey & Black Pepper,"Honey, Black Pepper, Ginger",Mix honey & black pepper in warm water,Drink twice daily,India,Clears mucus & improves breathing
+Sinusitis,Steam Inhalation,"Eucalyptus Oil, Hot Water","Add eucalyptus oil to hot water, inhale steam",Inhale for 10 minutes,Global,Opens nasal passages
+Migraine,Peppermint Oil Therapy,Peppermint Oil,Apply peppermint oil on temples,Use whenever headache occurs,Greece,Soothes nerves
+High Blood Pressure,Garlic & Lemon Water,"Garlic Cloves, Lemon, Warm Water","Crush garlic, mix with lemon in warm water",Drink on an empty stomach,China,Regulates blood pressure
+Low Blood Pressure,Tulsi & Honey Drink,"Tulsi (Holy Basil) Leaves, Honey","Crush tulsi leaves, mix with honey",Take in the morning,India,Stabilizes blood pressure
+Diabetes,Bitter Gourd Juice,"Bitter Gourd (Karela), Water",Blend bitter gourd with water,Drink on an empty stomach,India,Lowers blood sugar levels
+Thyroid Issues,Coconut Oil Therapy,Virgin Coconut Oil,Consume directly or add to food,1 tbsp daily,India,Supports thyroid function
+Kidney Stones,Barley Water,"Barley Seeds, Water","Boil barley seeds, strain water",Drink daily,China,Flushes out toxins
+Arthritis,Castor Oil Massage,Castor Oil,"Warm castor oil, massage joints",Apply daily,Ayurveda,Reduces joint stiffness
+,,,,,,
